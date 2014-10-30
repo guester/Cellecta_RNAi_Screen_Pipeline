@@ -4,3 +4,8 @@
 #Run the 'trimbarcodes' script created by Jon Irish that uses Trimm-O-matic software to trim fastq.gz sequencing files
 #down to a sequence length of 18.  Note that this step takes several hours to complete.
 
+#unzip the trimmed files with gunzip
+gunzip *trimmed.fastq.gz
+
+
+
