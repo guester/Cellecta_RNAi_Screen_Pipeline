@@ -2,5 +2,5 @@
 #using the Cellecta Human Modules shRNA screening library
 
 #Run the 'trimbarcodes' script created by Jon Irish that uses Trimm-O-matic software to trim fastq.gz sequencing files
-#down to a sequence length of 18
+#down to a sequence length of 18.  Note that this step takes several hours to complete.
 
