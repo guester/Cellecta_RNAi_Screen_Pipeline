@@ -1,0 +1,6 @@
+#This is a shell script designed to process sequencing data from genome-wide, RNAi-based negative selections screens
+#using the Cellecta Human Modules shRNA screening library
+
+#Run the 'trimbarcodes' script created by Jon Irish that uses Trimm-O-matic software to trim fastq.gz sequencing files
+#down to a sequence length of 18
+
